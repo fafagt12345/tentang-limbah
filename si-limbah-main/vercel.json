@@ -1,1 +1,0 @@
-{ "routes": [ { "src": "/(.*)", "dest": "/si-limbah-main/si-limbah-main/$1" } ] }
